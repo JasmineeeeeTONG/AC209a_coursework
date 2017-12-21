@@ -1,0 +1,36 @@
+## Jupyter notebook
+.ipynb_checkpoints/
+.nbgrader.log
+
+
+## latex/pdflatex files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.nav
+*.snm
+*.synctex.gz
+*.DS_Store
+
+# Python cache
+__pycache__
+.pyc
