@@ -1,5 +1,4 @@
-# AC209a 2017 Fall
+# AC209a Coursework - Fall 2017
 
-Course Repository:
-- **Homeworks** in 'homeworks' directory (Some large data files are removed.)
-- **Project** is published at the [website](https://ac209a-project-spotify.github.io/group30/).
+This is the coursework repo for Harvard AC209a - Introduction to Data Science (Fall 2017):
+- **Project - Spotify Playlists Popularity Prediction & Recommendation** published [here](https://ac209a-project-spotify.github.io/group30/)
